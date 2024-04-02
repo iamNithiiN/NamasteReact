@@ -1,0 +1,34 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "this is namaste react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamNithiiN/NamasteReact.git"
+  },
+  "keywords": [
+    "react",
+    "reactDom"
+  ],
+  "author": "Nithin Modiboyana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamNithiiN/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/iamNithiiN/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 version"
+  ]
+}

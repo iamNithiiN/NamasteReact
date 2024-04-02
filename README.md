@@ -78,3 +78,5 @@ The `framework` provides the flow of a software application and tells the develo
     - `Create an Element`
     - `Create nested React Elements`
     - `Use root.render`
+
+for building the production ready app in react we must remove the `"main": "App.js"` in package.json and run nxp parcel build index.html
